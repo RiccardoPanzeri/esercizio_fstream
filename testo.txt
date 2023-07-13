@@ -1,1 +1,1 @@
-ciao, questa e' una prova di scrittura/lettura file utilizzando la libreria fstream e le sue classi. La libreria fstreamcontiene tre classi in tutto; queste permettono di aprire lo stream in lettura, scrittura, o entrambe :) 
+ciao, questa e' una prova di scrittura/lettura file utilizzando la libreria fstream e le sue classi. La libreria fstream contiene tre classi in tutto; queste permettono di aprire lo stream in lettura, scrittura, o entrambe :) 
